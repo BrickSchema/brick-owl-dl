@@ -1,6 +1,7 @@
 # Contributing to Brick
 
 This document is a set of guidelines and resources for contributing to the Brick effort.
+Improvements and changes to this document are always welcome via [Pull Request](https://github.com/BrickSchema/brick-owl-dl/pulls)
 
 ## Asking Questions
 
